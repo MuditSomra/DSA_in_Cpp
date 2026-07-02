@@ -21,7 +21,7 @@ public:
        for(auto it = mp.rbegin(); it != mp.rend(); it++){
         while(it->second.size()>0){
             for(int i = 0; i < it->first; i++ ){
-                // cout<<"radhe radhe"<<endl;
+                cout<<"radhe radhe"<<endl;
                 ans+=it->second.front();
                 // it->second = it->second - 1;
             }
