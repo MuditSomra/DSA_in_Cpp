@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0049-group-anagrams) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0031-next-permutation) |
 | [0392-is-subsequence](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0392-is-subsequence) |
 | [2540-minimum-common-value](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2540-minimum-common-value) |
 ## Binary Search
