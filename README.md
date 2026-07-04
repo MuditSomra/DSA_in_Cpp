@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0415-add-strings) |
+| [0492-construct-the-rectangle](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0492-construct-the-rectangle) |
 ## Simulation
 |  |
 | ------- |
