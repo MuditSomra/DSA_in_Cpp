@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0495-teemo-attacking](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0605-can-place-flowers) |
 | [0692-top-k-frequent-words](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0692-top-k-frequent-words) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0049-group-anagrams) |
+| [0219-contains-duplicate-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0451-sort-characters-by-frequency) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0074-search-a-2d-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
