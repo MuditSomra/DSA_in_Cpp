@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1552-magnetic-force-between-two-balls) |
 | [1920-build-array-from-permutation](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1920-build-array-from-permutation) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0875-koko-eating-bananas](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1552-magnetic-force-between-two-balls) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1122-relative-sort-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1552-magnetic-force-between-two-balls) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0605-can-place-flowers) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2517-maximum-tastiness-of-candy-basket](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## String
 |  |
 | ------- |
