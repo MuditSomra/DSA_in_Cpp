@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0495-teemo-attacking](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0605-can-place-flowers) |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
