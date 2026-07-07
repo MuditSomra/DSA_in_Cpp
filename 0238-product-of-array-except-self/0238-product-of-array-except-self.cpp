@@ -11,14 +11,14 @@ public:
         for(int i = nums.size()-2; i >= 0; i--){
             suffix[i] = nums[i] * suffix[i+1];
         }
-        for(int x: prefix){
-            cout<<x<<" ";
-        }
-        cout<<endl;
-        for(int x: suffix){
-            cout<<x<<" ";
-        }
-        cout<<endl;
+        // for(int x: prefix){
+        //     cout<<x<<" ";
+        // }
+        // cout<<endl;
+        // for(int x: suffix){
+        //     cout<<x<<" ";
+        // }
+        // cout<<endl;
         for(int i = 0; i < nums.size(); i++){
             if(i!=0 && i!=(nums.size()-1) ){
             nums[i] = prefix[i-1] * suffix[i+1];
