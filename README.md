@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0492-construct-the-rectangle) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
