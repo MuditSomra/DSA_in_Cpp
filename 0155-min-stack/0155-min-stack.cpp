@@ -1,36 +1,54 @@
 class MinStack {
 public:
-    stack<int> st;
-    map<int, int> mp;
-    // long long min = INT_MIN - 1;
+    stack<long long> st;
+    long long min;
     MinStack() {
-        // stack<int> st;
-    }
-    
-    void push(int value) {
-        st.push(value);
-        mp[value]++;
         
     }
     
-    void pop() {
-        if(--mp[st.top()]==0){
-            mp.erase(st.top());
+    void push(int value) {
+        if(st.empty()){
+            st.push(value);
+            min = value;
         }
-        st.pop();
-        // mp[st.top()]--;
+        else if(value>=min){
+            st.push(value);
+        }
+        else if(min>value){
+            st.push( 2 * (long long)value - min);
+            min = value;
+        }
+    }
+    
+    void pop() {
+        if(st.size()==0){
 
+        }
+        else if(st.top()<min){
+            min = 2 * min - st.top();
+            st.pop();
+        }
+        else{
+             st.pop();
+        }
     }
     
     int top() {
-        return st.top();
+        // if(st.size()==0){
+        //     return -7181;
+        // }
+        if(st.top()<min){
+            return min;
+        }
+        else{
+            return st.top();
+        }
+        
     }
     
     int getMin() {
-        // for(auto x: mp){
-        //     cout<<x.first<<" and "<<x.second<<endl;
-        // }
-        return mp.begin()->first;
+
+        return min;
     }
 };
 
