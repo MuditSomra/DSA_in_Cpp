@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0392-is-subsequence) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
