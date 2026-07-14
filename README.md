@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0495-teemo-attacking](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0605-can-place-flowers) |
 | [0692-top-k-frequent-words](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0692-top-k-frequent-words) |
 | [0875-koko-eating-bananas](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0875-koko-eating-bananas) |
@@ -175,11 +176,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0503-next-greater-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
