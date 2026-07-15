@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0495-teemo-attacking) |
 | [1920-build-array-from-permutation](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1920-build-array-from-permutation) |
+| [2553-separate-the-digits-in-an-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2553-separate-the-digits-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
