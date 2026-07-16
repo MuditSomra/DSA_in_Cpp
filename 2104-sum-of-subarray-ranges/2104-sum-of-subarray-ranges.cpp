@@ -89,7 +89,7 @@ public:
             sumLarge = (sumLarge + (nums[i] * 1LL *((i - prevLarge[i]) * (nextLarge[i] - i ))));
 
         }
-        cout<<sumLarge<<" and "<<sumSmall<<endl;
+        // cout<<sumLarge<<" and "<<sumSmall<<endl;
         return sumLarge - sumSmall-0LL;
        
     }
