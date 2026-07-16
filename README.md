@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0605-can-place-flowers) |
 | [0692-top-k-frequent-words](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0692-top-k-frequent-words) |
+| [0735-asteroid-collision](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0907-sum-of-subarray-minimums) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0495-teemo-attacking) |
+| [0735-asteroid-collision](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1920-build-array-from-permutation) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2553-separate-the-digits-in-an-array) |
 ## Backtracking
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2104-sum-of-subarray-ranges) |
