@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0605-can-place-flowers) |
 | [1323-maximum-69-number](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1323-maximum-69-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0451-sort-characters-by-frequency) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0735-asteroid-collision) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0739-daily-temperatures) |
