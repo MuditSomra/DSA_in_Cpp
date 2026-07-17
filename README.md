@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0933-number-of-recent-calls) |
 ## String Matching
 |  |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
