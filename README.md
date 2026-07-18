@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0451-sort-characters-by-frequency) |
+| [0504-base-7](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0504-base-7) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0692-top-k-frequent-words](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0796-rotate-string) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0504-base-7) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
