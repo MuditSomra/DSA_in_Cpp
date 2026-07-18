@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1323-maximum-69-number) |
+| [1518-water-bottles](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1518-water-bottles) |
 | [1837-sum-of-digits-in-base-k](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1837-sum-of-digits-in-base-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/3783-mirror-distance-of-an-integer) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0735-asteroid-collision) |
+| [1518-water-bottles](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1920-build-array-from-permutation) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2553-separate-the-digits-in-an-array) |
 ## Backtracking
