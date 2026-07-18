@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1552-magnetic-force-between-two-balls) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -270,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0203-remove-linked-list-elements) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
