@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0907-sum-of-subarray-minimums) |
 | [1122-relative-sort-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1122-relative-sort-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1920-build-array-from-permutation) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2553-separate-the-digits-in-an-array) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0867-transpose-matrix) |
 ## Sliding Window
 |  |
 | ------- |
