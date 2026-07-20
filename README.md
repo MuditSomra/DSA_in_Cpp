@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1552-magnetic-force-between-two-balls) |
 | [1920-build-array-from-permutation](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2104-sum-of-subarray-ranges](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2104-sum-of-subarray-ranges) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2553-separate-the-digits-in-an-array) |
 ## Backtracking
 |  |
