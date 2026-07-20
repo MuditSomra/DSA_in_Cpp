@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0739-daily-temperatures) |
 | [0812-largest-triangle-area](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0812-largest-triangle-area) |
+| [0819-most-common-word](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0819-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0907-sum-of-subarray-minimums) |
 | [1122-relative-sort-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1122-relative-sort-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0692-top-k-frequent-words) |
+| [0819-most-common-word](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0819-most-common-word) |
 | [1122-relative-sort-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2540-minimum-common-value](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2540-minimum-common-value) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0692-top-k-frequent-words) |
+| [0819-most-common-word](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0819-most-common-word) |
 | [1122-relative-sort-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0692-top-k-frequent-words](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0819-most-common-word) |
 | [2833-furthest-point-from-origin](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2833-furthest-point-from-origin) |
 ## Bucket Sort
 |  |
