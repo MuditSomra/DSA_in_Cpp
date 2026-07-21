@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0819-most-common-word) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2833-furthest-point-from-origin](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2833-furthest-point-from-origin) |
 ## Bucket Sort
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0907-sum-of-subarray-minimums) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
