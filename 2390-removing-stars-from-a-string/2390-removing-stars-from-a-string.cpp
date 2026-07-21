@@ -1,22 +1,23 @@
 class Solution {
 public:
     string removeStars(string s) {
-        stack<char> st;
-        st.push(s[0]);
+        // stack<char> st;
+        deque<char> dq;
+        dq.push_back(s[0]);
         for(int i = 1; i < s.size(); i++){
-            if(!st.empty() && s[i]=='*'){
-                st.pop();
+            if(!dq.empty() && s[i]=='*'){
+                dq.pop_back();
             }
             else{
-                st.push(s[i]);
+                dq.push_back(s[i]);
             }
         }
         string ans = "";
-        while(!st.empty()){
-            ans += st.top();
-            st.pop();
+        while(!dq.empty()){
+            ans += dq.front();
+            dq.pop_front();
         }
-        reverse(ans.begin(), ans.end());
+        // reverse(ans.begin(), ans.end());
         return ans;
     }
 };
