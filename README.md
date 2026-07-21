@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0392-is-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0907-sum-of-subarray-minimums) |
+| [1137-n-th-tribonacci-number](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1137-n-th-tribonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0504-base-7) |
 | [0812-largest-triangle-area](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0812-largest-triangle-area) |
+| [1137-n-th-tribonacci-number](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -310,4 +312,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
