@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0049-group-anagrams) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0409-longest-palindrome) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0118-pascals-triangle) |
