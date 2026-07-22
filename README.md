@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [0455-assign-cookies](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0503-next-greater-element-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0392-is-subsequence](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0832-flipping-an-image) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2540-minimum-common-value) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0692-top-k-frequent-words) |
 | [1122-relative-sort-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0605-can-place-flowers) |
 | [1323-maximum-69-number](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1323-maximum-69-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
