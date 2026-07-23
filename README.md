@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1313-decompress-run-length-encoded-list](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1313-decompress-run-length-encoded-list) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1528-shuffle-string](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1528-shuffle-string) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1552-magnetic-force-between-two-balls) |
 | [1920-build-array-from-permutation](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1929-concatenation-of-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0819-most-common-word) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1528-shuffle-string](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1528-shuffle-string) |
 | [2390-removing-stars-from-a-string](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2833-furthest-point-from-origin) |
 ## Bucket Sort
