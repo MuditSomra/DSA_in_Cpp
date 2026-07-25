@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [0414-third-maximum-number](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0496-next-greater-element-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0692-top-k-frequent-words) |
