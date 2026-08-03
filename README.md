@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0680-valid-palindrome-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0692-top-k-frequent-words) |
