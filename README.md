@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0415-add-strings) |
