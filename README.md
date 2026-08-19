@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0832-flipping-an-image) |
+| [1486-xor-operation-in-an-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1486-xor-operation-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1323-maximum-69-number) |
+| [1486-xor-operation-in-an-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1486-xor-operation-in-an-array) |
 | [1518-water-bottles](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1837-sum-of-digits-in-base-k](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1837-sum-of-digits-in-base-k) |
