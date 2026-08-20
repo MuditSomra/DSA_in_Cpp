@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1528-shuffle-string) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1552-magnetic-force-between-two-balls) |
+| [1572-matrix-diagonal-sum](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1572-matrix-diagonal-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1929-concatenation-of-array) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1572-matrix-diagonal-sum) |
 ## Sliding Window
 |  |
 | ------- |
