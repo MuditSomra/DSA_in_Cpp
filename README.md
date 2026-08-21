@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0119-pascals-triangle-ii) |
 | [0204-count-primes](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0238-product-of-array-except-self) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0875-koko-eating-bananas) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0219-contains-duplicate-ii) |
 ## Stack
 |  |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0238-product-of-array-except-self) |
 ## Enumeration
 |  |
