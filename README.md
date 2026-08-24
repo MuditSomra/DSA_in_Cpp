@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1837-sum-of-digits-in-base-k](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1837-sum-of-digits-in-base-k) |
+| [2652-sum-multiples](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2652-sum-multiples) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
