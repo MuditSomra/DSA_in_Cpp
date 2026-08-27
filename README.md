@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0215-kth-largest-element-in-an-array) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0392-is-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0907-sum-of-subarray-minimums) |
