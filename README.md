@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0819-most-common-word) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1392-longest-happy-prefix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1392-longest-happy-prefix) |
 | [1528-shuffle-string](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1528-shuffle-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2390-removing-stars-from-a-string) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1392-longest-happy-prefix) |
 ## Queue
 |  |
 | ------- |
@@ -463,4 +465,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0918-maximum-sum-circular-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
