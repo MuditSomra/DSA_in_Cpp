@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1392-longest-happy-prefix) |
 ## Queue
@@ -476,9 +478,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
