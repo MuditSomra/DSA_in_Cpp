@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2104-sum-of-subarray-ranges) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2540-minimum-common-value) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1552-magnetic-force-between-two-balls) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
