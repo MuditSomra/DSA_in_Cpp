@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1528-shuffle-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2409-count-days-spent-together) |
 | [2833-furthest-point-from-origin](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2833-furthest-point-from-origin) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bucket Sort
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1837-sum-of-digits-in-base-k](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/1837-sum-of-digits-in-base-k) |
+| [2409-count-days-spent-together](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2409-count-days-spent-together) |
 | [2652-sum-multiples](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2652-sum-multiples) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/3783-mirror-distance-of-an-integer) |
