@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MuditSomra/DSA_in_Cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
